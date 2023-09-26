@@ -5,4 +5,5 @@ osFree is a Free Open Source software operating system development project, aimi
 
 ## Getting started
 
-It is, first of all, development project. So, you need to download and configure build environment first.
+It is, first of all, development project. So, you need to download and configure build environment first. Read http://osfree.org/doku/en:develop:guidelines for more information.
+
