@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![image](https://github.com/osfree-project/.github/assets/14326809/7b681e33-962f-4579-be90-1db0a17d48e7)
+
+
 [![Build status](https://github.com/osfree-project/osfree/actions/workflows/build_win.yml/badge.svg)](https://github.com/osfree-project/osfree/actions?query=workflow%3Abuild_win.yml)
 [![Build status](https://github.com/osfree-project/osfree/actions/workflows/build_lnx.yml/badge.svg)](https://github.com/osfree-project/osfree/actions?query=workflow%3Abuild_lnx.yml)
 
